@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Köpa hoj"
 tags: 660, 800, adventure, bmw, grus, ktm, mc, motorcykel, tenere, tiger, triumph, yamaha
 ---
 h2. Köpa Hoj
@@ -8,7 +9,7 @@ Jag har ägnat vintern åt att lusläsa motorcykeltidningarnas tester, kolla in 
 
 Så vilken typ av hoj är jag ute efter då? Jag har alltid haft en vurm för motorcross typen av MC. Varför vet jag inte riktigt, men visst minns jag de tillfällen (i min ungdom) då vi var ute och buskörde på Järvafältet med kompisens brutala KTM 400. Inte för att jag skulle vilja ha en crosshoj idag, men att åka grusvägar och bättre traktorstigar ingår i mina något romantiska planer. Samtidigt får man vara realist och inse att mycket asfaltsåkning kommer man inte ifrån. Hur som helst, det finns hojar för alla smaker och inriktningar och de som jag har fastnat för är:
 
-*Yamaha XT 660 Z Tenere
+* Yamaha XT 660 Z Tenere
 * BMW F 800 GS
 * Triumph Tiger 800 XC
 
