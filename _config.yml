@@ -1,6 +1,5 @@
 name: Hojfeber
 pygments: true
-source:      .
 destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
